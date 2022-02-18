@@ -10,6 +10,8 @@ Welcome to DemoSphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   first
+
 
 
 Indices and tables
